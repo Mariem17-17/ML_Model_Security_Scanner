@@ -1,0 +1,8 @@
+{
+    "model": "test_model.onnx",
+    "hash": "e420a62f09fa5c0c92331ea69214c4ed2f7c22143ea473dc985db18a85f082a5",
+    "risk_level": "LOW",
+    "findings": [
+        "ONNX parsing failed: Error parsing message with type 'onnx.ModelProto'"
+    ]
+}
